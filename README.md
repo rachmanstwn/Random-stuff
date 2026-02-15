@@ -1,7 +1,7 @@
 # Hi there 👋  
 I'm **Rachman Setiawan** — a passionate person in the fields of **Energy Systems, Sustainability, and Machine Learning**.
 
-🔋 I’m currently pursuing my M.Sc. in **Energy and Resources** at UC Berkeley, where I focus on optimizing electric vehicle (EV) charging infrastructure and applying predictive models to forecast energy demand in Indonesia.
+🔋 I’m currently working as a Research Analyst based in the Bay Area and Energy Researcher APAC, where I focus on optimizing renewable energy dispatch, energy markets, electric vehicle (EV) charging infrastructure and applying predictive models to forecast energy demand in Indonesia.
 
 💡 My background is in **Mechanical Engineering**, and I’ve been involved in both academic and industry research — from **biomass gasification** to **renewable energy systems** and **energy forecasting**.
 
