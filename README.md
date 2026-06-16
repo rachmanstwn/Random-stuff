@@ -3,7 +3,7 @@ I'm **Rachman Setiawan** — a passionate person in the fields of **Energy Syste
 
 🔋 I’m currently working as a Research Analyst based in the Bay Area and Energy Researcher in APAC, where I focus on optimizing renewable energy dispatch, energy markets, electric vehicle (EV) charging infrastructure and applying predictive models to forecast energy demand in Indonesia.
 
-💡 My background is in **Mechanical Engineering**, and I’ve been involved in both academic and industry research — from **biomass gasification** to **renewable energy systems** and **energy forecasting**.
+💡 My background is in **Mechatronics** and **Energy and Resources**, and I’ve been involved in both academic and industry research — from **biomass gasification**, **solar PV** to **renewable energy systems** and **energy forecasting**.
 
 📚 You can find my research publications here:  
 [Google Scholar - Rachman Setiawan](https://scholar.google.com/citations?user=i3blwWIAAAAJ&hl=id&oi=ao)
